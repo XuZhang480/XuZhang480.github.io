@@ -2,47 +2,17 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <h1>Xu Zhang</h1>
+      <p><b>Undergraduate</b></p>
+      <p><b>School of Electronic Information and Communications</b></p>
+      <p><b>Huazhong University of Science and Technology</b></p>
+      <p><b>Email: xuzhang480@gamil.com</b></p>
+      <p><b>Luoyu Road 1037, Wuhan, China, 430074</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="https://i.loli.net/2021/03/23/yzQdcXYujAtOpNq.jpg" width="100%">
     </td>
   </tr>
 </table>
 </div>
 
----
-
-张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
-
----
-
-### 最新消息
-1. 消息1×××
-
-### 研究方向
-- 文本挖掘
-- 知识图谱
-
-### 荣誉奖励
-- 奖学金
-- 荣誉称号
-- 比赛获奖
-
-### 项目研究
-#### 公司/学校/研究所（2013.9~2017.6）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
-
-#### 公司/学校/研究所（2017.9~至今）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
