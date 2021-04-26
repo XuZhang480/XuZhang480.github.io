@@ -7,7 +7,6 @@
         <li><a href="http://www.hust.edu.cn/">Huazhong University of Science and Technology</a></li>
         <li>Luoyu Road 1037, Wuhan, China, 430074</li>
         <li>Email: <a href="mailto:xuzhang480@gmail.com">xuzhang480@gmail.com</a></li>
-        <li>Website: <a href="mailto:xuzhang480@gmail.com">xuzhang480@gmail.com</a></li>
     </td>
     <td width="25%">
       <img src="photo.jpg" width="100%">
@@ -21,3 +20,4 @@
 
 - B. Sc. in Electronic Information and Communications, Huazhong University of Science & Technology, Wuhan, China
 
+------
