@@ -14,10 +14,12 @@
   </tr>
 </table>
 
+
 ------
 
 ## Education
 
+- M. Sc. in Electronic Information and Communications, Huazhong University of Science & Technology, Wuhan, China
 - B. Sc. in Electronic Information and Communications, Huazhong University of Science & Technology, Wuhan, China
 
 ------
