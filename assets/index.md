@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>Xu Zhang</h1>
-        <li>Undergraduate</li>
+        <li>Graduate</li>
         <li><a href="http://ei.hust.edu.cn/">School of Electronic Information and Communications</a></li>
         <li><a href="http://www.hust.edu.cn/">Huazhong University of Science and Technology</a></li>
         <li>Luoyu Road 1037, Wuhan, China, 430074</li>
