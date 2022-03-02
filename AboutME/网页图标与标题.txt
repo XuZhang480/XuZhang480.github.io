@@ -1,2 +1,2 @@
 		<title>About Me</title>
-		<link rel="icon" href="https://i.loli.net/2021/08/26/xtkguyEmKVaeLD7.png" sizes="32x32">
+		<link rel="icon" href="https://sm.ms/image/3V2SNp1K4qXRlA7" sizes="32x32">
