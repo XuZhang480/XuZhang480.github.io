@@ -24,3 +24,13 @@
 
 ------
 
+## Publications
+
+### Conference Papers
+
+1. Xiao Yong,  **Zhang Xu**, Li Yingyu and Shi Guangming. Rate-Distortion Theory for Strategic Semantic Communication[J]. arXiv preprint arXiv:2202.03711, 2022.
+
+
+
+
+

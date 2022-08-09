@@ -5,6 +5,7 @@
 		<title>About Me</title>
 		<link rel="icon" href="https://i.loli.net/2021/08/26/xtkguyEmKVaeLD7.png" sizes="32x32">
 
+
 <link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
 .mac-os-11 { --title-bar-height:28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
@@ -24,8 +25,6 @@ body.typora-export { padding-left: 30px; padding-right: 30px; }
 @media screen and (max-width: 500px) {
   body.typora-export { padding-left: 0px; padding-right: 0px; }
   #write { padding-left: 20px; padding-right: 20px; }
-  .CodeMirror-sizer { margin-left: 0px !important; }
-  .CodeMirror-gutters { display: none !important; }
 }
 #write li > figure:last-child { margin-bottom: 0.5rem; }
 #write ol, #write ul { position: relative; }
@@ -53,7 +52,7 @@ sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inh
 #write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
 figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
 figure > table { margin: 0px; }
-tr { break-inside: avoid; break-after: auto; }
+thead, tr { break-inside: avoid; break-after: auto; }
 thead { display: table-header-group; }
 table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
 table.md-table td { min-width: 32px; }
@@ -75,6 +74,7 @@ div.hr:focus { cursor: none; }
 #write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
 .md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
 .CodeMirror-line, twitterwidget { break-inside: avoid; }
+svg { break-inside: avoid; }
 .footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
 .footnotes + .footnotes { margin-top: 0px; }
 .md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
@@ -89,7 +89,7 @@ blockquote > :first-child, li > :first-child { margin-top: 0px; }
 #write .footnote-line { white-space: pre-wrap; }
 @media print {
   body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
-  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; padding-bottom: 0px !important; }
   .typora-export * { -webkit-print-color-adjust: exact; }
   .typora-export #write { break-after: avoid; }
   .typora-export #write::after { height: 0px; }
@@ -132,6 +132,7 @@ p > .md-image:only-child { display: inline-block; width: 100%; }
 }
 a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
 .footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
 .md-attr { display: none; }
 .md-fn-count::after { content: "."; }
 code, pre, samp, tt { font-family: var(--monospace); }
@@ -459,11 +460,8 @@ code {
     html {
         font-size: 13px;
     }
-    table,
     pre {
         page-break-inside: avoid;
-    }
-    pre {
         word-wrap: break-word;
     }
 }
@@ -592,7 +590,7 @@ header, .context-menu, .megamenu-content, footer{
 
 
 
-</style><title>index</title>
+</style><title>Index</title>
 </head>
 <body class='typora-export os-windows'><div class='typora-export-content'>
 <div id='write'  class=' first-line-indent'><table border="0">
@@ -609,6 +607,6 @@ header, .context-menu, .megamenu-content, footer{
       <img src="photo.jpg" width="100%">
     </td>
   </tr>
-</tbody></table><p>&nbsp;</p><hr /><h2 id='education'><span>Education</span></h2><ul><li><span>M. Sc. in Electronic Information and Communications, Huazhong University of Science &amp; Technology, Wuhan, China</span></li><li><span>B. </span>&nbsp;<span>Sc. in Electronic Information and Communications, Huazhong University of Science &amp; Technology, Wuhan, China</span></li></ul><hr /><p>&nbsp;</p></div></div>
+</tbody></table><p>&nbsp;</p><hr /><h2 id='education'><span>Education</span></h2><ul><li><span>M. Sc. in Electronic Information and Communications, Huazhong University of Science &amp; Technology, Wuhan, China</span></li><li><span>B. </span>&nbsp;<span>Sc. in Electronic Information and Communications, Huazhong University of Science &amp; Technology, Wuhan, China</span></li></ul><hr /><h2 id='publications'><span>Publications</span></h2><h3 id='conference-papers'><span>Conference Papers</span></h3><ol start='' ><li><span>Xiao Yong,  </span><strong><span>Zhang Xu</span></strong><span>, Li Yingyu and Shi Guangming. Rate-Distortion Theory for Strategic Semantic Communication[J]. arXiv preprint arXiv:2202.03711, 2022.</span></li></ol><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div></div>
 </body>
 </html>
